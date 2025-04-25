@@ -1,0 +1,7 @@
+[user]
+	name = user
+	email = git@email.com
+
+# Use Proxy
+[url "https://ghfast.top/https://github.com/"]
+	insteadOf = https://github.com/
